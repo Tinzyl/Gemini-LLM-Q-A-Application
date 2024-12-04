@@ -11,4 +11,16 @@ This project is a **Streamlit-based web application** that leverages Google's **
 - **Dynamic Responses**: Generates answers based on user input. 📋
 
 ---
+🔍 **How It Works**
 
+**Input Query**:
+
+The user enters a question in the Streamlit app.
+
+**Processing**:
+
+The app sends the query to the Gemini Pro LLM for processing.
+
+**Output**:
+
+The model generates a response, which is displayed in the app.
